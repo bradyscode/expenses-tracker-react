@@ -9,6 +9,6 @@ Like I said this is my first reactJs project, it is something I would like to be
 
 # How to run
 Load the project and type in the terminal
-'''
+```
 npm start
-'''
+```
