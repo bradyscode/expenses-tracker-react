@@ -4,6 +4,11 @@ This is my first react application. It was made following a tutorial. It is to s
 # Purpose
 Like I said this is my first reactJs project, it is something I would like to become more proficient in!
 
+# Future features
+```
+Backend - Add local storage or some sort of data handling for the application
+```
+
 # Demo Picture
 ![Demo page](demo.png)
 
